@@ -1,0 +1,108 @@
+#title{
+    padding: 0px 0px;
+    background-color: #161616;
+}
+.navbar-brand{
+    font-family: 'Abril Fatface';
+    font-size: 2.5rem;
+}
+.orta{
+    color: rgb(238, 255, 0);
+}
+body{
+    font-family: 'Montserrat';
+    background-color: #50577A;
+}
+.navbar_right{
+    font-family: 'Montserrat';
+    font-weight: 100;
+}
+.container-fluid{
+    background-color: #161616;
+    margin: 0px;
+    padding: 0% 10%;
+}
+.main{
+    padding: 10% 10% 33.6% 1%;
+    margin: 0px;
+    background-color: #474E68;
+    background-image: url(images/pexels-rockerzzz-fyp-1265718.jpg);
+    background-attachment: fixed;
+    background-size: 2000px 3000px;
+    background-position: right center;
+}
+.head_text{
+    color: aliceblue;
+    width: 35%;
+    position:absolute;
+    right: 9%;
+    line-height: 1.5;
+    font-family: 'Montserrat';
+}
+#library{
+    background-color: #282937;
+    text-align: center;
+    color: white;
+    padding-top: 3%;
+    padding-bottom: 0%;
+    font-family: 'montserrat';
+}
+.carousel-item{
+    padding: 1% 22%;
+}
+#photographers{
+    background-color: #404258;
+    font-family: 'Montserrat';
+    text-align: center;
+    padding: 40px 10px 30px 10px;
+    color: #ffffff;
+}
+.gallery{
+    display: inline-block;
+    margin: 60px;
+    text-align: center;
+}
+.gallery:hover{
+    border: #ffffff 1px solid;
+}
+.desc{
+    font-family: 'Abril fatface';
+    text-align: center;
+    margin-top: 5px;
+    font-size: large;
+    color: aliceblue;
+}
+p{
+    font-family: 'poiret one';
+    width: 250px;
+}
+#joinus{
+    color: azure;
+    text-align: center;
+    padding-top: 60px;
+    padding-bottom: 100px;
+    background-image: url(images/pexels-david-bartus-610294.jpg);
+    background-size: 1500px 1000px;
+    background-position: center left;
+}
+.joinus{
+    margin: auto;
+    background-color: #3e405ebe;
+    width: 50%;
+    padding-bottom: 10px;
+}
+#footer{
+    padding: 2%;
+}
+.foot{
+text-align: center;
+}
+p{
+text-align: center;
+margin: auto;
+font-weight: bolder;
+}
+.icon2{
+    margin: 10px;
+    margin-bottom: 20px;
+}
